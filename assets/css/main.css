@@ -788,9 +788,9 @@ button,
   margin: 0 0 0.55em 0; }
   
 #header img {
-  width: 55em;
+  width: 15em;
   position: relative;
-  top: -2em;
+  top: -1em;
   max-width: 100%;
 }
 
@@ -882,7 +882,7 @@ button,
 
 @media screen and (max-width: 380px) {
   .video-responsive{
-     width: 260px;
+     width: 180px;
      padding-bottom: 0;
    }
 }
