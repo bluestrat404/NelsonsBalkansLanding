@@ -877,14 +877,14 @@ button,
 
 @media screen and (max-width: 500px) {
   .video-responsive{
-     width: 300px;
+     width: 350px;
      padding-bottom: 0;
    }
 }
 
 @media screen and (max-width: 380px) {
   .video-responsive{
-     width: 180px;
+     width: 310px;
      padding-bottom: 0;
    }
 }
