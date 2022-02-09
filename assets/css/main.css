@@ -852,16 +852,18 @@ button,
   position: relative;
   display: block;
   width: 440px;
-  overflow: hidden;
+  /* overflow: hidden; */
   top: -1.5em;
   margin-bottom: 1.5em;
 }
 
+/* Only for Vimeo embed
 .video-responsive::before {
   display: block;
   content: "";
   padding-top: 56.25%;
 }
+ */
 
 .video-responsive-item {
   position: absolute;
